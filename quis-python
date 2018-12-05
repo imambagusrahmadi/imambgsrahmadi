@@ -1,0 +1,6 @@
+print("ibukota negara indonesia")
+jawaban=input("Masukan jawaban:")
+if jawaban=="jakarta":
+    print("Benar")
+else:
+    print("salah")
